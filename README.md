@@ -1,73 +1,122 @@
 <div align="center">
 
-<img src="assets/cosmolanex-wordmark.png" width="300" alt="Cosmo Lanex" />
+<br />
+
+<img src="assets/cosmolanex-wordmark.png" width="260" alt="Cosmo Lanex" />
 
 <br /><br />
 
-**Systems trader turned systems builder.**
+<sub>Building digital products, software, automation, and trading solutions through NUKRAX.</sub>
 
-Algorithmic trading systems, web platforms, and embedded hardware — designed, built, and shipped solo under the NUKRAX brand.
+<br /><br />
 
-[![Donate](https://img.shields.io/badge/Donate-8FB8C4?style=for-the-badge&logo=buymeacoffee&logoColor=030507)](https://nukrax.shop)
-[![Contact](https://img.shields.io/badge/Contact-030507?style=for-the-badge&logo=gmail&logoColor=8FB8C4)](mailto:contact@nukrax.com)
-[![Website](https://img.shields.io/badge/nukrax.com-030507?style=for-the-badge&logo=cloudflare&logoColor=8FB8C4)](https://nukrax.com)
-[![GitHub](https://img.shields.io/badge/GitHub-030507?style=for-the-badge&logo=github&logoColor=8FB8C4)](https://github.com/CosmoLanex)
+<a href="https://nukrax.com"><img src="https://img.shields.io/badge/Explore_NUKRAX-8FB8C4?style=for-the-badge&logoColor=030507" /></a>
+<a href="#services"><img src="https://img.shields.io/badge/View_Services-030507?style=for-the-badge&logoColor=8FB8C4" /></a>
+<a href="mailto:contact@nukrax.com"><img src="https://img.shields.io/badge/Contact-030507?style=for-the-badge&logoColor=8FB8C4" /></a>
+<a href="https://nukrax.shop"><img src="https://img.shields.io/badge/Donate-030507?style=for-the-badge&logoColor=8FB8C4" /></a>
+
+<br /><br /><br />
 
 </div>
 
+Cosmo Lanex designs and builds NUKRAX — a private trading and software ecosystem covering web platforms, algorithmic execution, and the infrastructure behind both. Solo-built, end to end.
+
 <br />
 
-## About
+### What I Build
 
-I'm Cosmo Lanex — a developer with a background in mathematics and forex trading. That combination shapes how I build: rules translated from market structure rather than borrowed from retail templates, and interfaces built with the same precision as the logic behind them.
-
-I design, build, and maintain **NUKRAX**, a private trading ecosystem spanning algorithmic execution, live market infrastructure, and the web/hardware tooling around it — end to end, as a solo developer.
-
-## What I Build
-
-**Algorithmic Trading Systems**
-Expert Advisors for MetaTrader 5 built around Smart Money Concepts and ICT methodology — market structure, liquidity sweeps, fair value gaps, and order blocks translated into executable, live-tested logic across forex majors and gold.
-
-**Trading Infrastructure**
-The NUKRAX web platform — market monitoring dashboards, execution terminals, and documentation, deployed on Cloudflare Workers with a deliberately minimal, institutional design language.
-
-**Embedded Systems**
-Dual-ESP32 hardware platforms for RF/wireless research — WiFi and BLE scanning, spectrum analysis, and custom firmware with a handheld OLED interface, documented end-to-end with circuit diagrams and build guides.
+**Algorithmic trading systems** — Expert Advisors built on Smart Money Concepts and ICT methodology, live-tested on MT5.
+**Web platforms** — the NUKRAX site, dashboards, and trading terminals, deployed on Cloudflare Workers.
+**Embedded systems** — dual-ESP32 hardware for RF and wireless research, firmware built from the ground up.
 
 <br />
 
 ## Services
+<a name="services"></a>
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+<img src="assets/icons/monitor.svg" width="20" height="20" />
+
+**Web Development**
+
+Interfaces built for speed and clarity — presenting the work well and performing without friction.
+
+[Explore →](https://nukrax.com)
+
+</td>
+<td width="25%" valign="top">
+
+<img src="assets/icons/candles.svg" width="20" height="20" />
+
+**MT5 Expert Advisors**
+
+Automated trading logic — execution, risk management, and configurable rules running on MetaTrader 5.
+
+[Explore →](https://nukrax.com/ea-selection.html)
+
+</td>
+<td width="25%" valign="top">
+
+<img src="assets/icons/sliders.svg" width="20" height="20" />
+
+**Automation**
+
+Execution and risk systems that run unattended, enforcing exposure limits without manual input.
+
+[Explore →](https://nukrax.com)
+
+</td>
+<td width="25%" valign="top">
+
+<img src="assets/icons/barchart.svg" width="20" height="20" />
+
+**Market Intelligence**
+
+Dashboards reading liquidity, volatility, and positioning — the same signals evaluated before every trade.
+
+[Explore →](https://nukrax.com/map.html)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>Built for — Businesses · Traders · Creators · Digital Products</sub>
+</div>
+
+<br />
+
+### Why NUKRAX
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="assets/icons/monitor.svg" width="22" height="22" align="absmiddle" /> &nbsp;**Web Development**
-
-Full-stack web platforms and interfaces — from the NUKRAX site itself to market dashboards and trading terminals, deployed on Cloudflare Workers with a focus on speed and clean UI.
+**Purpose-built**
+Systems designed around the actual requirement, not a template.
 
 </td>
 <td width="50%" valign="top">
 
-<img src="assets/icons/candles.svg" width="22" height="22" align="absmiddle" /> &nbsp;**MT5 Expert Advisors**
-
-Custom Expert Advisor development for MetaTrader 5 — HFT-class scalping systems, gold-specialist engines, and SMC/ICT-based strategy automation.
+**Clean execution**
+Focused interfaces and implementation, built to be maintained.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="assets/icons/sliders.svg" width="22" height="22" align="absmiddle" /> &nbsp;**Automation & Execution Systems**
-
-Risk engines, position sizing, and multi-timeframe confirmation logic that runs unattended — built to enforce exposure limits and execute without manual intervention.
+**Direct communication**
+A straightforward path from idea to finished product.
 
 </td>
 <td width="50%" valign="top">
 
-<img src="assets/icons/barchart.svg" width="22" height="22" align="absmiddle" /> &nbsp;**Market Intelligence Tools**
-
-Dashboards covering liquidity, volatility, and positioning — signal confidence scoring, session tracking, and order-flow visualization for live decision-making.
+**Built to scale**
+Designed so the system can evolve as the project grows.
 
 </td>
 </tr>
@@ -75,40 +124,33 @@ Dashboards covering liquidity, volatility, and positioning — signal confidence
 
 <br />
 
-## Capabilities
+## Selected Work
 
-| | Capability | Details |
-|---|---|---|
-| <img src="assets/icons/target.svg" width="20" height="20" /> | **SMC / ICT Strategy Logic** | Market structure, fair value gaps, and order blocks rebuilt as executable rules rather than retail indicator wrappers. |
-| <img src="assets/icons/bolt.svg" width="20" height="20" /> | **Low-Latency Execution** | Orders routed through optimized broker connections, built for HFT-class strategies. |
-| <img src="assets/icons/shield.svg" width="20" height="20" /> | **Risk Engine** | Automated position sizing and drawdown/exposure limits enforced per trade. |
-| <img src="assets/icons/globe.svg" width="20" height="20" /> | **Multi-Platform Delivery** | Trading terminals and dashboards (`nukrax.tr`, `nukrax.cr`) integrated with the EA suite. |
-| <img src="assets/icons/lock.svg" width="20" height="20" /> | **Security Layer** | End-to-end encryption on traffic and stored credentials, isolated cloud infrastructure. |
-| <img src="assets/icons/signal.svg" width="20" height="20" /> | **Embedded / RF Systems** | Dual-ESP32 firmware for wireless scanning and spectrum analysis, built from the hardware layer up. |
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<br />
+**[nukrax](https://github.com/CosmoLanex/nukrax)**
+The NUKRAX platform — core site and infrastructure.
+<sub>Cloudflare Workers · HTML/JS</sub>
 
-## Featured Projects
+</td>
+<td width="33%" valign="top">
 
-| Project | Description |
-|---|---|
-| **[nukrax](https://github.com/CosmoLanex/nukrax)** | The NUKRAX web platform — Expert Advisor pages, market map, and core site infrastructure. |
-| **[Specter](https://github.com/CosmoLanex/Specter)** | Dual-ESP32 RF research platform — WiFi/BLE scanning, spectrum analysis, custom firmware and OLED UI. |
-| **[nukrax.tr](https://github.com/CosmoLanex/nukrax.tr)** | Live trading terminal — real-time market analysis and journaling, integrated with the EA suite. |
+**[Specter](https://github.com/CosmoLanex/Specter)**
+Dual-ESP32 RF research platform with custom firmware.
+<sub>C++ · ESP32</sub>
 
-## Technologies
+</td>
+<td width="33%" valign="top">
 
-<div align="center">
+**[nukrax.tr](https://github.com/CosmoLanex/nukrax.tr)**
+Live trading terminal integrated with the EA suite.
+<sub>Web · Real-time</sub>
 
-![HTML5](https://img.shields.io/badge/HTML5-030507?style=flat-square&logo=html5&logoColor=8FB8C4)
-![JavaScript](https://img.shields.io/badge/JavaScript-030507?style=flat-square&logo=javascript&logoColor=8FB8C4)
-![MQL5](https://img.shields.io/badge/MQL5-030507?style=flat-square&logo=metatrader&logoColor=8FB8C4)
-![C++](https://img.shields.io/badge/C++-030507?style=flat-square&logo=cplusplus&logoColor=8FB8C4)
-![Arduino](https://img.shields.io/badge/Arduino-030507?style=flat-square&logo=arduino&logoColor=8FB8C4)
-![ESP32](https://img.shields.io/badge/ESP32-030507?style=flat-square&logo=espressif&logoColor=8FB8C4)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-030507?style=flat-square&logo=cloudflare&logoColor=8FB8C4)
-
-</div>
+</td>
+</tr>
+</table>
 
 <br />
 <hr />
@@ -116,40 +158,20 @@ Dashboards covering liquidity, volatility, and positioning — signal confidence
 
 <div align="center">
 
-<img src="assets/nukrax-wordmark.png" width="280" alt="NUKRAX" />
+**Have a project in mind?**
+Let's build it.
+
+<br />
+
+<a href="https://nukrax.com"><img src="https://img.shields.io/badge/Explore_NUKRAX-8FB8C4?style=for-the-badge&logoColor=030507" /></a>
+<a href="mailto:contact@nukrax.com"><img src="https://img.shields.io/badge/Contact-030507?style=for-the-badge&logoColor=8FB8C4" /></a>
+
+<br /><br /><br />
+
+<sub><a href="https://nukrax.com">NUKRAX</a> · <a href="mailto:contact@nukrax.com">Contact</a> · <a href="https://nukrax.shop">Donate</a> · <a href="https://github.com/CosmoLanex">GitHub</a></sub>
 
 <br /><br />
 
-**NUKRAX is an independently operated brand created and maintained by Cosmo Lanex.**
+<sub>NUKRAX is an independently operated brand, built and maintained by Cosmo Lanex. © 2024 NUKRAX.</sub>
 
-</div>
-
-The NUKRAX name, website, source code, and brand assets are original work produced and owned by Cosmo Lanex. The official domain is **[nukrax.com](https://nukrax.com)** — all Expert Advisors, trading terminals, and platform features are developed and released exclusively through that domain and this GitHub account.
-
-**Intellectual Property & Security**
-- Code and brand assets in NUKRAX repositories are original work; unauthorized redistribution or reproduction outside of stated repository licenses is not sanctioned.
-- NUKRAX systems and services should be accessed only through official channels — [nukrax.com](https://nukrax.com) and [github.com/CosmoLanex](https://github.com/CosmoLanex).
-- Platform infrastructure uses end-to-end encryption and access controls, as described on the official site.
-- For complete legal, licensing, and privacy information, refer to [nukrax.com](https://nukrax.com).
-
-<br />
-
-## Official Links
-
-<div align="center">
-
-[![nukrax.com](https://img.shields.io/badge/nukrax.com-8FB8C4?style=flat-square&logo=cloudflare&logoColor=030507)](https://nukrax.com)
-[![Donate](https://img.shields.io/badge/Donate-8FB8C4?style=flat-square&logo=buymeacoffee&logoColor=030507)](https://nukrax.shop)
-[![Contact](https://img.shields.io/badge/Contact-8FB8C4?style=flat-square&logo=gmail&logoColor=030507)](mailto:contact@nukrax.com)
-[![GitHub](https://img.shields.io/badge/GitHub-8FB8C4?style=flat-square&logo=github&logoColor=030507)](https://github.com/CosmoLanex)
-[![X](https://img.shields.io/badge/X-8FB8C4?style=flat-square&logo=x&logoColor=030507)](https://x.com/CosmoLanex)
-[![Telegram](https://img.shields.io/badge/Telegram-8FB8C4?style=flat-square&logo=telegram&logoColor=030507)](https://t.me/CosmoLanex)
-[![YouTube](https://img.shields.io/badge/YouTube-8FB8C4?style=flat-square&logo=youtube&logoColor=030507)](https://www.youtube.com/@CosmoLanex)
-
-</div>
-
-<br />
-
-<div align="center">
-<sub>© 2024 NUKRAX. All rights reserved. · Built by <a href="https://github.com/CosmoLanex">@CosmoLanex</a></sub>
 </div>
