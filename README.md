@@ -8,9 +8,9 @@
 
 Algorithmic trading systems, web platforms, and embedded hardware — designed, built, and shipped solo under the NUKRAX brand.
 
-[![Donate](https://img.shields.io/badge/Donate-8FB8C4?style=for-the-badge&logo=buymeacoffee&logoColor=030507)](https://nukrax.shop)
-[![Contact](https://img.shields.io/badge/Contact-030507?style=for-the-badge&logo=gmail&logoColor=8FB8C4)](mailto:contact@nukrax.com)
 [![Website](https://img.shields.io/badge/nukrax.com-030507?style=for-the-badge&logo=cloudflare&logoColor=8FB8C4)](https://nukrax.com)
+[![Contact](https://img.shields.io/badge/Contact-030507?style=for-the-badge&logo=gmail&logoColor=8FB8C4)](mailto:contact@nukrax.com)
+[![Donate](https://img.shields.io/badge/Donate-8FB8C4?style=for-the-badge&logo=buymeacoffee&logoColor=030507)](https://nukrax.shop)
 [![GitHub](https://img.shields.io/badge/GitHub-030507?style=for-the-badge&logo=github&logoColor=8FB8C4)](https://github.com/CosmoLanex)
 
 </div>
@@ -139,8 +139,8 @@ The NUKRAX name, website, source code, and brand assets are original work produc
 <div align="center">
 
 [![nukrax.com](https://img.shields.io/badge/nukrax.com-8FB8C4?style=flat-square&logo=cloudflare&logoColor=030507)](https://nukrax.com)
-[![Donate](https://img.shields.io/badge/Donate-8FB8C4?style=flat-square&logo=buymeacoffee&logoColor=030507)](https://nukrax.shop)
 [![Contact](https://img.shields.io/badge/Contact-8FB8C4?style=flat-square&logo=gmail&logoColor=030507)](mailto:contact@nukrax.com)
+[![Donate](https://img.shields.io/badge/Donate-8FB8C4?style=flat-square&logo=buymeacoffee&logoColor=030507)](https://nukrax.shop)
 [![GitHub](https://img.shields.io/badge/GitHub-8FB8C4?style=flat-square&logo=github&logoColor=030507)](https://github.com/CosmoLanex)
 [![X](https://img.shields.io/badge/X-8FB8C4?style=flat-square&logo=x&logoColor=030507)](https://x.com/CosmoLanex)
 [![Telegram](https://img.shields.io/badge/Telegram-8FB8C4?style=flat-square&logo=telegram&logoColor=030507)](https://t.me/CosmoLanex)
