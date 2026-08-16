@@ -167,6 +167,7 @@ Subscribe at [nukrax.com](https://nukrax.com) to get notified when they arrive.
 | **[nukrax](https://github.com/CosmoLanex/nukrax)** | The NUKRAX web platform — Expert Advisor pages, market map, and core site infrastructure. |
 | **[Specter](https://github.com/CosmoLanex/Specter)** | Dual-ESP32 RF research platform — WiFi/BLE scanning, spectrum analysis, custom firmware and OLED UI. |
 | **[nukrax.tr](https://github.com/CosmoLanex/nukrax.tr)** | Live trading terminal — real-time market analysis and journaling, integrated with the EA suite. |
+| **[.cr](https://github.com/CosmoLanex/.cr)** (nukrax.cr) | Companion live trading platform with a secure crypto deposit portal, integrated with the EA suite. |
 
 ## Technologies
 
