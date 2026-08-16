@@ -1,21 +1,17 @@
 <div align="center">
 
-
-
-<br />
-
 <img src="assets/cosmolanex-wordmark.png" width="300" alt="Cosmo Lanex" />
 
 <br /><br />
 
-**Building NUKRAX — a private algorithmic trading ecosystem**
+**Systems trader turned systems builder.**
 
-Systems trader turned systems builder. MQL5 execution engines, embedded RF hardware, and the web infrastructure that ties it together.
+Algorithmic trading systems, web platforms, and embedded hardware — designed, built, and shipped solo under the NUKRAX brand.
 
-[![Website](https://img.shields.io/badge/nukrax.com-030507?style=for-the-badge&logo=cloudflare&logoColor=8FB8C4)](https://nukrax.com)
 [![Donate](https://img.shields.io/badge/Donate-8FB8C4?style=for-the-badge&logo=buymeacoffee&logoColor=030507)](https://nukrax.shop)
 [![Contact](https://img.shields.io/badge/Contact-030507?style=for-the-badge&logo=gmail&logoColor=8FB8C4)](mailto:contact@nukrax.com)
-[![X](https://img.shields.io/badge/@CosmoLanex-030507?style=for-the-badge&logo=x&logoColor=8FB8C4)](https://x.com/CosmoLanex)
+[![Website](https://img.shields.io/badge/nukrax.com-030507?style=for-the-badge&logo=cloudflare&logoColor=8FB8C4)](https://nukrax.com)
+[![GitHub](https://img.shields.io/badge/GitHub-030507?style=for-the-badge&logo=github&logoColor=8FB8C4)](https://github.com/CosmoLanex)
 
 </div>
 
@@ -23,9 +19,9 @@ Systems trader turned systems builder. MQL5 execution engines, embedded RF hardw
 
 ## About
 
-I build **NUKRAX**, a private trading ecosystem covering algorithmic execution, live market infrastructure, and the hardware/software tooling around it. Everything is designed and shipped solo — from Expert Advisor logic to the frontend that presents it.
+I'm Cosmo Lanex — a developer with a background in mathematics and forex trading. That combination shapes how I build: rules translated from market structure rather than borrowed from retail templates, and interfaces built with the same precision as the logic behind them.
 
-My background is in mathematics and forex trading, which shapes how I approach the systems side: rules translated from market structure rather than borrowed from retail indicator templates, and interfaces built with the same precision as the logic behind them.
+I design, build, and maintain **NUKRAX**, a private trading ecosystem spanning algorithmic execution, live market infrastructure, and the web/hardware tooling around it — end to end, as a solo developer.
 
 ## What I Build
 
@@ -33,12 +29,70 @@ My background is in mathematics and forex trading, which shapes how I approach t
 Expert Advisors for MetaTrader 5 built around Smart Money Concepts and ICT methodology — market structure, liquidity sweeps, fair value gaps, and order blocks translated into executable, live-tested logic across forex majors and gold.
 
 **Trading Infrastructure**
-The NUKRAX web platform itself — market monitoring dashboards, execution terminals, and documentation, deployed on Cloudflare Workers with a deliberately minimal, institutional design language.
+The NUKRAX web platform — market monitoring dashboards, execution terminals, and documentation, deployed on Cloudflare Workers with a deliberately minimal, institutional design language.
 
 **Embedded Systems**
 Dual-ESP32 hardware platforms for RF/wireless research — WiFi and BLE scanning, spectrum analysis, and custom firmware with a handheld OLED interface, documented end-to-end with circuit diagrams and build guides.
 
-## Tech Stack
+<br />
+
+## Services
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ Web Development
+Full-stack web platforms and interfaces — from the NUKRAX site itself to market dashboards and trading terminals, deployed on Cloudflare Workers with a focus on speed and clean UI.
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 MT5 Expert Advisors
+Custom Expert Advisor development for MetaTrader 5 — HFT-class scalping systems, gold-specialist engines, and SMC/ICT-based strategy automation.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Automation & Execution Systems
+Risk engines, position sizing, and multi-timeframe confirmation logic that runs unattended — built to enforce exposure limits and execute without manual intervention.
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Market Intelligence Tools
+Dashboards covering liquidity, volatility, and positioning — signal confidence scoring, session tracking, and order-flow visualization for live decision-making.
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## Capabilities
+
+| | Capability | Details |
+|---|---|---|
+| 🧠 | **SMC / ICT Strategy Logic** | Market structure, fair value gaps, and order blocks rebuilt as executable rules rather than retail indicator wrappers. |
+| ⚡ | **Low-Latency Execution** | Orders routed through optimized broker connections, built for HFT-class strategies. |
+| 🛡️ | **Risk Engine** | Automated position sizing and drawdown/exposure limits enforced per trade. |
+| 🌐 | **Multi-Platform Delivery** | Trading terminals and dashboards (`nukrax.tr`, `nukrax.cr`) integrated with the EA suite. |
+| 🔐 | **Security Layer** | End-to-end encryption on traffic and stored credentials, isolated cloud infrastructure. |
+| 📡 | **Embedded / RF Systems** | Dual-ESP32 firmware for wireless scanning and spectrum analysis, built from the hardware layer up. |
+
+<br />
+
+## Featured Projects
+
+| Project | Description |
+|---|---|
+| **[nukrax](https://github.com/CosmoLanex/nukrax)** | The NUKRAX web platform — Expert Advisor pages, market map, and core site infrastructure. |
+| **[Specter](https://github.com/CosmoLanex/Specter)** | Dual-ESP32 RF research platform — WiFi/BLE scanning, spectrum analysis, custom firmware and OLED UI. |
+| **[nukrax.tr](https://github.com/CosmoLanex/nukrax.tr)** | Live trading terminal — real-time market analysis and journaling, integrated with the EA suite. |
+
+## Technologies
 
 <div align="center">
 
@@ -52,19 +106,37 @@ Dual-ESP32 hardware platforms for RF/wireless research — WiFi and BLE scanning
 
 </div>
 
-## Featured
+<br />
+<hr />
+<br />
 
-| Project | Description |
-|---|---|
-| **[nukrax](https://github.com/CosmoLanex/nukrax)** | The NUKRAX web platform — Expert Advisor pages, market map, and core site infrastructure. |
-| **[Specter](https://github.com/CosmoLanex/Specter)** | Dual-ESP32 RF research platform — WiFi/BLE scanning, spectrum analysis, custom firmware and OLED UI. |
-| **[nukrax.tr](https://github.com/CosmoLanex/nukrax.tr)** | Live trading terminal — real-time market analysis and journaling, integrated with the EA suite. |
+<div align="center">
 
-## Connect
+<img src="assets/nukrax-wordmark.png" width="280" alt="NUKRAX" />
+
+<br /><br />
+
+**NUKRAX is an independently operated brand created and maintained by Cosmo Lanex.**
+
+</div>
+
+The NUKRAX name, website, source code, and brand assets are original work produced and owned by Cosmo Lanex. The official domain is **[nukrax.com](https://nukrax.com)** — all Expert Advisors, trading terminals, and platform features are developed and released exclusively through that domain and this GitHub account.
+
+**Intellectual Property & Security**
+- Code and brand assets in NUKRAX repositories are original work; unauthorized redistribution or reproduction outside of stated repository licenses is not sanctioned.
+- NUKRAX systems and services should be accessed only through official channels — [nukrax.com](https://nukrax.com) and [github.com/CosmoLanex](https://github.com/CosmoLanex).
+- Platform infrastructure uses end-to-end encryption and access controls, as described on the official site.
+- For complete legal, licensing, and privacy information, refer to [nukrax.com](https://nukrax.com).
+
+<br />
+
+## Official Links
 
 <div align="center">
 
 [![nukrax.com](https://img.shields.io/badge/nukrax.com-8FB8C4?style=flat-square&logo=cloudflare&logoColor=030507)](https://nukrax.com)
+[![Donate](https://img.shields.io/badge/Donate-8FB8C4?style=flat-square&logo=buymeacoffee&logoColor=030507)](https://nukrax.shop)
+[![Contact](https://img.shields.io/badge/Contact-8FB8C4?style=flat-square&logo=gmail&logoColor=030507)](mailto:contact@nukrax.com)
 [![GitHub](https://img.shields.io/badge/GitHub-8FB8C4?style=flat-square&logo=github&logoColor=030507)](https://github.com/CosmoLanex)
 [![X](https://img.shields.io/badge/X-8FB8C4?style=flat-square&logo=x&logoColor=030507)](https://x.com/CosmoLanex)
 [![Telegram](https://img.shields.io/badge/Telegram-8FB8C4?style=flat-square&logo=telegram&logoColor=030507)](https://t.me/CosmoLanex)
@@ -75,5 +147,5 @@ Dual-ESP32 hardware platforms for RF/wireless research — WiFi and BLE scanning
 <br />
 
 <div align="center">
-<sub>NUKRAX — precision over noise.</sub>
+<sub>© 2024 NUKRAX. All rights reserved. · Built by <a href="https://github.com/CosmoLanex">@CosmoLanex</a></sub>
 </div>
