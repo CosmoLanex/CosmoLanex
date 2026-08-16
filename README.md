@@ -172,7 +172,7 @@ The NUKRAX web platform — Expert Advisor pages, market map, and core site infr
 
 <sub>Cloudflare Workers · HTML/JS</sub>
 
-[View repository →](https://github.com/CosmoLanex/nukrax)
+[View →](https://nukrax.com)
 
 </td>
 <td width="50%" valign="top">
