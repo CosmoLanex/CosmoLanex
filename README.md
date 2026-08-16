@@ -42,13 +42,15 @@ Dual-ESP32 hardware platforms for RF/wireless research — WiFi and BLE scanning
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ Web Development
+<img src="assets/icons/monitor.svg" width="22" height="22" align="absmiddle" /> &nbsp;**Web Development**
+
 Full-stack web platforms and interfaces — from the NUKRAX site itself to market dashboards and trading terminals, deployed on Cloudflare Workers with a focus on speed and clean UI.
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 MT5 Expert Advisors
+<img src="assets/icons/candles.svg" width="22" height="22" align="absmiddle" /> &nbsp;**MT5 Expert Advisors**
+
 Custom Expert Advisor development for MetaTrader 5 — HFT-class scalping systems, gold-specialist engines, and SMC/ICT-based strategy automation.
 
 </td>
@@ -56,13 +58,15 @@ Custom Expert Advisor development for MetaTrader 5 — HFT-class scalping system
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Automation & Execution Systems
+<img src="assets/icons/sliders.svg" width="22" height="22" align="absmiddle" /> &nbsp;**Automation & Execution Systems**
+
 Risk engines, position sizing, and multi-timeframe confirmation logic that runs unattended — built to enforce exposure limits and execute without manual intervention.
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Market Intelligence Tools
+<img src="assets/icons/barchart.svg" width="22" height="22" align="absmiddle" /> &nbsp;**Market Intelligence Tools**
+
 Dashboards covering liquidity, volatility, and positioning — signal confidence scoring, session tracking, and order-flow visualization for live decision-making.
 
 </td>
@@ -75,12 +79,12 @@ Dashboards covering liquidity, volatility, and positioning — signal confidence
 
 | | Capability | Details |
 |---|---|---|
-| 🧠 | **SMC / ICT Strategy Logic** | Market structure, fair value gaps, and order blocks rebuilt as executable rules rather than retail indicator wrappers. |
-| ⚡ | **Low-Latency Execution** | Orders routed through optimized broker connections, built for HFT-class strategies. |
-| 🛡️ | **Risk Engine** | Automated position sizing and drawdown/exposure limits enforced per trade. |
-| 🌐 | **Multi-Platform Delivery** | Trading terminals and dashboards (`nukrax.tr`, `nukrax.cr`) integrated with the EA suite. |
-| 🔐 | **Security Layer** | End-to-end encryption on traffic and stored credentials, isolated cloud infrastructure. |
-| 📡 | **Embedded / RF Systems** | Dual-ESP32 firmware for wireless scanning and spectrum analysis, built from the hardware layer up. |
+| <img src="assets/icons/target.svg" width="20" height="20" /> | **SMC / ICT Strategy Logic** | Market structure, fair value gaps, and order blocks rebuilt as executable rules rather than retail indicator wrappers. |
+| <img src="assets/icons/bolt.svg" width="20" height="20" /> | **Low-Latency Execution** | Orders routed through optimized broker connections, built for HFT-class strategies. |
+| <img src="assets/icons/shield.svg" width="20" height="20" /> | **Risk Engine** | Automated position sizing and drawdown/exposure limits enforced per trade. |
+| <img src="assets/icons/globe.svg" width="20" height="20" /> | **Multi-Platform Delivery** | Trading terminals and dashboards (`nukrax.tr`, `nukrax.cr`) integrated with the EA suite. |
+| <img src="assets/icons/lock.svg" width="20" height="20" /> | **Security Layer** | End-to-end encryption on traffic and stored credentials, isolated cloud infrastructure. |
+| <img src="assets/icons/signal.svg" width="20" height="20" /> | **Embedded / RF Systems** | Dual-ESP32 firmware for wireless scanning and spectrum analysis, built from the hardware layer up. |
 
 <br />
 
