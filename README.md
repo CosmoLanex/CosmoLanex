@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/266482976?v=4" width="120" style="border-radius:50%" alt="Cosmo Lanex" />
+<img src="assets/nukrax-wordmark.png" width="360" alt="NUKRAX" />
 
-# Cosmo Lanex
+<br />
+
+<img src="assets/cosmolanex-wordmark.png" width="300" alt="Cosmo Lanex" />
+
+<br /><br />
 
 **Building NUKRAX — a private algorithmic trading ecosystem**
 
