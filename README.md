@@ -51,7 +51,7 @@ Full-stack web platforms and interfaces — from the NUKRAX site itself to marke
 
 <img src="assets/icons/candles.svg" width="22" height="22" align="absmiddle" /> &nbsp;**MT5 Expert Advisors**
 
-Custom Expert Advisor development for MetaTrader 5 — HFT-class scalping systems, gold-specialist engines, and SMC/ICT-based strategy automation.
+Custom Expert Advisor development for MetaTrader 5 — HFT-class scalping systems, gold-specialist engines, and SMC/ICT-based strategy automation. See the full lineup below.
 
 </td>
 </tr>
@@ -68,6 +68,78 @@ Risk engines, position sizing, and multi-timeframe confirmation logic that runs 
 <img src="assets/icons/barchart.svg" width="22" height="22" align="absmiddle" /> &nbsp;**Market Intelligence Tools**
 
 Dashboards covering liquidity, volatility, and positioning — signal confidence scoring, session tracking, and order-flow visualization for live decision-making.
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## Expert Advisors
+
+Live, MT5-native execution systems — each built around a distinct strategy architecture and rigorously scoped to specific instruments.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="assets/icons/bolt.svg" width="22" height="22" align="absmiddle" /> &nbsp;**APEX** <sub>HFT · v1.0</sub>
+
+Ultra-fast execution engine with adaptive scalping logic and multi-timeframe confirmation.
+
+- 5 trading models
+- 6-timeframe analysis
+- Confluence-based entries
+- Automated position sizing
+- Multiple take-profit levels
+- Trailing stop management
+- Session filters
+- Built-in risk controls
+
+**Instruments:** XAU · Major Forex Pairs
+
+[View system →](https://nukrax.com/ea/apex.html)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="assets/icons/target.svg" width="22" height="22" align="absmiddle" /> &nbsp;**AURUM** <sub>HFT · v1.0</sub>
+
+Gold-specialist system built around liquidity-targeting and Smart Money Concepts.
+
+- 9 confluence pillars
+- 7-timeframe analysis
+- Liquidity sweep detection
+- CHoCH · Order Blocks · FVGs
+- CRT setups · Price Action
+- Automated position sizing
+- Multiple take-profit levels
+- Trailing stop management
+- Session filters
+
+**Instrument:** XAU (Gold)
+
+[View system →](https://nukrax.com/ea/aurum.html)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="assets/icons/signal.svg" width="22" height="22" align="absmiddle" /> &nbsp;**SMC ICT** <sub>SMC · ICT</sub>
+
+Smart Money Concepts implementation with ICT methodology, FVG detection, and order block validation.
+
+[View system →](https://nukrax.com/ea/smc-ict.html)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="assets/icons/sliders.svg" width="22" height="22" align="absmiddle" /> &nbsp;**More Systems** <sub>In Development</sub>
+
+Additional Expert Advisors, automations, and digital solutions are currently in development and testing.
+
+Subscribe at [nukrax.com](https://nukrax.com) to get notified when they arrive.
 
 </td>
 </tr>
