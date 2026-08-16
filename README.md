@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/nukrax-wordmark.png" width="360" alt="NUKRAX" />
+
 
 <br />
 
