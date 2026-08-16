@@ -12,7 +12,7 @@ If something in this README is broken, outdated, or unclear — a dead link, a f
 
 For project inquiries, collaborations, or questions about NUKRAX services, reach out directly rather than through a pull request:
 
-- **Email:** [inquirie@nukrax.com](mailto:inquirie@nukrax.com)
+- **Email:** [enquiry@nukrax.com](mailto:enquiry@nukrax.com)
 - **Website:** [nukrax.com](https://nukrax.com)
 
 ## Other NUKRAX repositories
