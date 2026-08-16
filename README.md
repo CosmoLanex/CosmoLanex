@@ -14,7 +14,7 @@ Systems trader turned systems builder. MQL5 execution engines, embedded RF hardw
 
 [![Website](https://img.shields.io/badge/nukrax.com-030507?style=for-the-badge&logo=cloudflare&logoColor=8FB8C4)](https://nukrax.com)
 [![Donate](https://img.shields.io/badge/Donate-8FB8C4?style=for-the-badge&logo=buymeacoffee&logoColor=030507)](https://nukrax.shop)
-[![Contact](https://img.shields.io/badge/Contact-030507?style=for-the-badge&logo=gmail&logoColor=8FB8C4)](contact@nukrax.com)
+[![Contact](https://img.shields.io/badge/Contact-030507?style=for-the-badge&logo=gmail&logoColor=8FB8C4)](mailto:contact@nukrax.com)
 [![X](https://img.shields.io/badge/@CosmoLanex-030507?style=for-the-badge&logo=x&logoColor=8FB8C4)](https://x.com/CosmoLanex)
 
 </div>
