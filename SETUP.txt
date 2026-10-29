@@ -1,0 +1,10 @@
+HOW TO USE THIS AS YOUR GITHUB PROFILE README
+
+1. On GitHub, create a PUBLIC repository named exactly like your username:  CosmoLanex
+   (GitHub shows "this is a special repository" when the name matches).
+2. Upload everything from this folder to the root of that repository:
+   README.md and the assets folder.
+3. Commit. Your profile page https://github.com/CosmoLanex now shows it.
+
+To change a crypto address or a link later, edit README.md directly on GitHub.
+Card and QR pictures live in assets/ (they were rendered from the real profile page).
