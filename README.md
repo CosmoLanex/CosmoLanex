@@ -27,17 +27,9 @@
 <img src="assets/cards/lanux-store.png" alt="Lanux Connect. Maintenance. Connect with the Lanux world. lanux.store" width="560">
 
 </div>
-</details>
 
-<details>
-<summary><b>Projects</b> &nbsp;|&nbsp; Things I built because I couldn&rsquo;t find the right one.</summary>
-<br>
-<div align="center">
 
-<a href="https://qr-studio.cosmolnx.workers.dev/"><img src="assets/cards/qr-studio.png" alt="QR Studio. Permanent custom QR codes. qr-studio.cosmolnx.workers.dev" width="560"></a>
 
-</div>
-</details>
 
 <br>
 
